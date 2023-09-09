@@ -15,4 +15,4 @@ class Solution:
                     return indice
                 j = j + 1
             i = i + 1
-            j = 0
+            j = i
